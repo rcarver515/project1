@@ -34,6 +34,8 @@ A meal search engine that allows you to save recipes for future use and create a
 * Link to published page:
  https://rcarver515.github.io/project1/
 
+* Link to Github Repo:
+https://github.com/rcarver515/project1
 
 * Contributing Guidelines
 All contributions and suggestions are welcome! For direct contributions, please fork the repository and file a pull request.
